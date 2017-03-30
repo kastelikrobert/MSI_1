@@ -1,0 +1,9 @@
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\bin\Debug\SieciNeuronowe.exe.config
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\bin\Debug\SieciNeuronowe.exe
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\bin\Debug\SieciNeuronowe.pdb
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\obj\Debug\SieciNeuronowe.csprojResolveAssemblyReference.cache
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\obj\Debug\SieciNeuronowe.Form1.resources
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\obj\Debug\SieciNeuronowe.Properties.Resources.resources
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\obj\Debug\SieciNeuronowe.csproj.GenerateResource.Cache
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\obj\Debug\SieciNeuronowe.exe
+E:\Dokumenty\Visual Studio 2015\Projects\Sieci_neuronowe\Sieci_Neuronowe\SieciNeuronowe\SieciNeuronowe\obj\Debug\SieciNeuronowe.pdb
